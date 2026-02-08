@@ -3,7 +3,7 @@ Student / Beginner<br>📚 Learning Programming language<br>🔧 Exploring new t
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vipin-prajapati-01bb9a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vipin-prajapati-01bb9a286) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](Mail to:
 vipinpra7348@gmail.com) 
 
