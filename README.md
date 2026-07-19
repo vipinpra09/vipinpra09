@@ -63,27 +63,14 @@ vipinpra7348@gmail.com
 https://github.com/vipinpra09
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vipinpra09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinpra09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vipinpra09&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipinpra09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://raw.githubusercontent.com/vipinpra09/vipinpra09/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ## 📊 GitHub Stats
 
-> Add these after creating your profile README.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipinpra09&show_icons=true&theme=tokyonight)
 
