@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vipin Prajapati
 
-🎓 **B.Tech CSE (AI & ML) Student @ RKGIT (2025–2029)**
+🎓 **B.Tech CSE (AI & ML)(2025–2029)**
 💻 **Aspiring Java Backend Developer | AI/ML Enthusiast**
 🚀 Passionate about building scalable applications and solving real-world problems.
 🌱 Learning every day through projects, DSA, and open-source.
@@ -24,24 +24,20 @@
 - Java
 - Python
 - C++
-
-### ⚙ Backend Development
-- Spring Boot
-- Spring MVC
-- REST APIs
-- Hibernate
-- JDBC
-
-### 🗄 Database
-- PostgreSQL
-- MySQL
-
+- 
 ### 🛠 Tools & Technologies
 - Git
 - GitHub
 - VS Code
 - Postman
+## 📈 Currently Learning
 
+- Spring Boot
+- System Design
+- Microservices
+- Docker
+- PostgreSQL
+- DSA (LeetCode)
 ---
 
 ## 🚀 Featured Projects
@@ -52,35 +48,7 @@ A collaborative study platform for students.
 **Features**
 - Notes Sharing
 - Whiteboard
-- Chat
-- Attendance
-- Research Papers
 - File Upload
-
----
-
-## 📈 Currently Learning
-
-- Spring Boot
-- System Design
-- Microservices
-- Docker
-- PostgreSQL
-- DSA (LeetCode)
-- Generative AI
-- AI Agents
-
----
-
-## 🏆 GitHub Goals (2026)
-
-- ⭐ Build 10+ Full-Stack Projects
-- ⭐ Master Spring Boot
-- ⭐ Solve 500+ LeetCode Problems
-- ⭐ Contribute to Open Source
-- ⭐ Learn Microservices & DevOps
-- ⭐ Build AI-powered Applications
-
 ---
 
 ## 🌐 Connect With Me
@@ -95,6 +63,23 @@ vipinpra7348@gmail.com
 https://github.com/vipinpra09
 
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vipinpra09&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinpra09&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vipinpra09&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vipinpra09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 ## 📊 GitHub Stats
 
