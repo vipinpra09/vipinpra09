@@ -59,9 +59,6 @@ https://www.linkedin.com/in/vipin-prajapati-01bb9a286
 📧 Email  
 vipinpra7348@gmail.com
 
-🐙 GitHub  
-https://github.com/vipinpra09
-
 ---
 ## 🐍 Contribution Snake
 
@@ -69,19 +66,5 @@ https://github.com/vipinpra09
   <img src="https://raw.githubusercontent.com/vipinpra09/vipinpra09/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-## 📊 GitHub Stats
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipinpra09&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vipinpra09&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinpra09&layout=compact&theme=tokyonight)
-
 ---
-
-## 💡 Quote
-
-> **"The best way to predict the future is to build it."**
-
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories, contribute, or connect with me.
