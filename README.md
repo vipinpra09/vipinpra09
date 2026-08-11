@@ -54,7 +54,7 @@ A collaborative study platform for students.
 ## 🌐 Connect With Me
 
 💼 LinkedIn  
-https://www.linkedin.com/in/vipin-prajapati-01bb9a286
+https://www.linkedin.com/in/vipinprajapati7348
 
 📧 Email  
 vipinpra7348@gmail.com
