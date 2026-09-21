@@ -1,37 +1,37 @@
 # 👋 Hi, I'm Vipin Prajapati
 
-🎓 **B.Tech CSE (AI & ML) (2025–2029)**  
-💻 **Aspiring Java Backend Developer | AI/ML Enthusiast**  
-🚀 Passionate about building scalable applications and solving real-world problems.  
-🌱 Learning every day through projects, DSA, and open-source.
+**B.Tech CSE (AI & ML) (2025–2029)**  
+**Aspiring Java Backend Developer | AI/ML Enthusiast**  
+Passionate about building scalable applications and solving real-world problems.  
+Learning every day through projects, DSA, and open-source.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently building **Java Backend** and **AI-powered** projects
-- 🌱 Learning **Spring Boot, Hibernate, REST APIs, PostgreSQL, Docker, System Design, and Microservices**
-- 🤖 Exploring **Generative AI, LLMs, and AI Agents**
-- 📚 Solving **Data Structures & Algorithms** problems on LeetCode
-- 💡 Believe in learning by building real-world applications
+-  Currently building **Java Backend** and **AI-powered** projects
+-  Learning **Spring Boot, Hibernate, REST APIs, PostgreSQL, Docker, System Design, and Microservices**
+-  Exploring **Generative AI, LLMs, and AI Agents**
+-  Solving **Data Structures & Algorithms** problems on LeetCode
+-  Believe in learning by building real-world applications
 - 🎯 Goal: Become a **Software Engineer** at a top product-based company
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 - Java
 - Python
 - C++
 
-### 🛠 Tools & Technologies
+### Tools & Technologies
 - Git
 - GitHub
 - VS Code
 - Postman
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Spring Boot
 - System Design
@@ -42,9 +42,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📚 StudyCanvas
+### StudyCanvas
 A collaborative study platform for students.
 
 **Features**
@@ -54,7 +54,7 @@ A collaborative study platform for students.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 🌐 **Portfolio**  
 https://vipin-prajapati-portfolio.vercel.app/
