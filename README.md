@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vipin Prajapati
+# Hi, I'm Vipin Prajapati
 
 **B.Tech CSE (AI & ML) (2025–2029)**  
 **Aspiring Java Backend Developer | AI/ML Enthusiast**  
