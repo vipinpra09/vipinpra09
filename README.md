@@ -41,19 +41,6 @@ Learning every day through projects, DSA, and open-source.
 - DSA (LeetCode)
 
 ---
-
-##  Featured Projects
-
-### StudyCanvas
-A collaborative study platform for students.
-
-**Features**
-- Notes Sharing
-- Whiteboard
-- File Upload
-
----
-
 ## Connect With Me
 
 🌐 **Portfolio**  
