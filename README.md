@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/ascii-art.png" alt="Portrait of Vipin Prajapati" width="280" />
+      <img src="assets/ascii-art2.jpg" alt="Portrait of Vipin Prajapati" width="280" />
     </td>
     <td width="65%" valign="middle">
       <h1>Hi, I'm Vipin Prajapati</h1>
