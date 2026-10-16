@@ -1,5 +1,9 @@
  <p align="center">
-  <img src="assets/ascii-portrait.png" alt="ASCII portrait of Vipin Prajapati" width="420" />
+  <img
+    src="assets/ascii-art.png"
+    alt="ASCII portrait of Vipin Prajapati"
+    width="420"
+  />
 </p>
 
 <h1 align="center">Hi, I'm Vipin Prajapati 👋</h1>
