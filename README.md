@@ -5,9 +5,9 @@
       <img src="assets/ascii-art.png" alt="Portrait of Vipin Prajapati" width="280" />
     </td>
     <td width="65%" valign="middle">
-      <h1>Hi, I'm Vipin Prajapati 👋</h1>
+      <h1>Hi, I'm Vipin Prajapati</h1>
       <h3>B.Tech CSE (AI &amp; ML) | 2025–2029</h3>
-      <p><strong>Aspiring Java Backend Developer | AI/ML Enthusiast</strong></p>
+      <p><strong>Aspiring Java Backend Developer | AI/ML Enthusiast | Machine Learning</strong></p>
       <p>Passionate about building scalable applications and solving real-world problems through code.</p>
       <p>Learning every day through projects, DSA, and open-source contributions.</p>
       <p><strong>Goal:</strong> Become a Software Engineer at a top product-based company.</p>
