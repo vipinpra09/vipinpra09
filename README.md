@@ -10,7 +10,7 @@
       <p><strong>Aspiring Java Backend Developer | AI/ML Enthusiast</strong></p>
       <p>Passionate about building scalable applications and solving real-world problems through code.</p>
       <p>Learning every day through projects, DSA, and open-source contributions.</p>
-      <p>🎯 <strong>Goal:</strong> Become a Software Engineer at a top product-based company.</p>
+      <p><strong>Goal:</strong> Become a Software Engineer at a top product-based company.</p>
       <p>
         <a href="https://vipin-prajapati-portfolio.vercel.app/">Portfolio</a> ·
         <a href="https://www.linkedin.com/in/vipinprajapati7348/">LinkedIn</a> ·
@@ -80,22 +80,6 @@ Explore my GitHub repositories to see my projects, experiments, and learning pro
 <p align="center">
   <a href="https://github.com/vipinpra09?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-  </a>
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://vipin-prajapati-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/vipinprajapati7348/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vipinpra7348@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
