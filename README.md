@@ -28,8 +28,6 @@
 - Exploring **Generative AI, Large Language Models (LLMs), and AI Agents**.
 - Practicing **Data Structures & Algorithms (DSA)** on LeetCode.
 - Believe in learning by building real-world applications.
-- 🎯 My goal is to become a **Software Engineer at a top product-based company**.
-
 ---
 
 ## Tech Stack
