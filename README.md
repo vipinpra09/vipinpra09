@@ -10,7 +10,6 @@
       <p><strong>Aspiring Java Backend Developer | AI/ML Enthusiast | Machine Learning</strong></p>
       <p>Passionate about building scalable applications and solving real-world problems through code.</p>
       <p>Learning every day through projects, DSA, and open-source contributions.</p>
-      <p><strong>Goal:</strong> Become a Software Engineer at a top product-based company.</p>
       <p>
         <a href="https://vipin-prajapati-portfolio.vercel.app/">Portfolio</a> ·
         <a href="https://www.linkedin.com/in/vipinprajapati7348/">LinkedIn</a> ·
